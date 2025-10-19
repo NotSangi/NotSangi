@@ -52,6 +52,16 @@
   </a>
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Algunas Estadísticas</h2></summary>
+  </ul>
+</div>
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotSangi&theme=dark&layout=compact)
+ 
+
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
