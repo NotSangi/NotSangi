@@ -75,7 +75,7 @@
 <a href="https://discord.com/users/602328078026539020"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="mailto:gironlozano1975@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/sgl21_2003/"><img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/santiagogiron2003?locale=es_LA"><img src="https://img.shields.io/badge/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/santiagogiron2003"><img src="https://img.shields.io/badge/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/santiago-giron-lozano-b43272255/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
