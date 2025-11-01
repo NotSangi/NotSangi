@@ -7,7 +7,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola, Soy Santiago</h1></summary>
+    <summary><h1 style="display: inline-block;">Hi, Im Santiago</h1></summary>
   </ul>
 </div>
 
@@ -15,19 +15,21 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Sobre mi</h2></summary>
+    <summary><h2 style="display: inline-block">About Me</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 Actualmente trabajo con Python, Flask y MySQL o MongoDB
+<p>Software Developer with experience in languages ​​such as PHP and Java, and currently expanding my knowledge of Python. I work with backend technologies like Laravel and Flask, and have experience in frontend development using SCSS.
 
-- 🌱 Actualmente estoy estudiando los frameworks de Python
+I have knowledge of relational databases (MySQL, SQLite) and non-relational databases (MongoDB). I use GitHub as my primary version control tool, as well as Postman for API testing and Lucidchart for architecture and workflow design.
 
-- ☁️ Estoy interesando en desarrollar mis conocimientos al máximo para ser Ingeniero de ...
+I am passionate about how Artificial Intelligence is redefining the world, and my goal is to be part of that change by applying my knowledge to create a positive and lasting impact.
 
-- 📫 Sientete libre de contactarme (contactos abajo)
+I have worked with agile methodologies such as Scrum, using management tools like ClickUp.
+
+Currently, I am pursuing self-directed learning in the field of Data Science, developing skills with Python libraries such as Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow.</p>
 <!--Intro end-->
 
 
@@ -42,7 +44,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que Uso</h2></summary>
+    <summary><h2 style="display: inline-block">Knowledge</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -54,19 +56,24 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Algunas Estadísticas</h2></summary>
+    <summary><h2 style="display: inline-block">Stadistics</h2></summary>
   </ul>
 </div>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotSangi&theme=dark&layout=compact)
- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSangi&theme=dark&layout=compact"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotSangi&theme=radical"/>  
+</div>
 
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Contáctame</h2></summary>
+    <summary><h2 style="display: inline-block">Contact</h2></summary>
   </ul>
 </div>
 
