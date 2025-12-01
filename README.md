@@ -32,8 +32,6 @@ I have worked with agile methodologies such as Scrum, using management tools lik
 Currently, I am pursuing self-directed learning in the field of Data Science, developing skills with Python libraries such as Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow.</p>
 <!--Intro end-->
 
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -50,7 +48,7 @@ Currently, I am pursuing self-directed learning in the field of Data Science, de
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,scss,java,py,php,mongodb,mysql,postman,vscode,git,github,discord,laravel,flask,ubuntu&perline=8" />
+    <img src="https://skillicons.dev/icons?i=css,html,scss,java,py,php,mongodb,mysql,postman,vscode,git,github,discord,laravel,flask,django,ubuntu,sklearn&perline=6" />
   </a>
 </p>
 
