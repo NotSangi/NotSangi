@@ -63,7 +63,7 @@ Currently, I am pursuing self-directed learning in the field of Data Science, de
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotSangi&theme=radical"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=NotSangi"/>  
 </div>
 
 
