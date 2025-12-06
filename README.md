@@ -58,14 +58,10 @@ Currently, I am pursuing self-directed learning in the field of Data Science, de
   </ul>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSangi&theme=dark&layout=compact"/>
+<div align="center">  
+  <img width="413" src="https://github-readme-streak-stats.herokuapp.com/?user=NotSangi&theme=radical&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
+  <img width="295" src="https://github-readme-stats-pi-sand-42.vercel.app/api/top-langs/?username=NotSangi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&line_height=23&hide=jupyter%20notebook,typescript,java,css" alt="top langs" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotSangi"/>  
-</div>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
