@@ -21,7 +21,7 @@
 
 
 <!--Intro start-->
-<p>Software Developer with experience in languages ​​such as PHP and Java, and currently expanding my knowledge of Python. I work with backend technologies like Laravel and Flask, and have experience in frontend development using SCSS.
+<p>Software Developer with experience in languages ​​such as PHP and Java, and currently expanding my knowledge of Python. I work with backend technologies like Laravel, Flask adn Django, and have experience in frontend development using SCSS.
 
 I have knowledge of relational databases (MySQL, SQLite) and non-relational databases (MongoDB). I use GitHub as my primary version control tool, as well as Postman for API testing and Lucidchart for architecture and workflow design.
 
