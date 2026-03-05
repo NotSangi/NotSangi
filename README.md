@@ -48,7 +48,7 @@ Currently, I am pursuing self-directed learning in the field of Data Science, de
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,scss,java,py,php,mongodb,mysql,postman,vscode,git,github,discord,laravel,flask,django,ubuntu,sklearn&perline=6" />
+    <img src="https://skillicons.dev/icons?i=css,html,scss,java,py,php,mongodb,mysql,postman,vscode,git,github,discord,laravel,flask,django,ubuntu,sklearn,pytorch,tensorflow&perline=10" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ Currently, I am pursuing self-directed learning in the field of Data Science, de
 
 <div align="center">  
   <img width="413" src="https://github-readme-streak-stats.herokuapp.com/?user=NotSangi&theme=radical&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
-  <img width="295" src="https://github-readme-stats-pi-sand-42.vercel.app/api/top-langs/?username=NotSangi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&line_height=23&hide=jupyter%20notebook,typescript,java,css" alt="top langs" />
+  <img width="295" src="https://github-readme-stats-pi-sand-42.vercel.app/api/top-langs/?username=NotSangi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&line_height=23&hide=jupyter%20notebook,typescript,java,css," alt="top langs" />
 </div>
 
 <!-- Connect with me -->
