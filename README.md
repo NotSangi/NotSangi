@@ -48,7 +48,7 @@ Currently, I am pursuing self-directed learning in the field of Data Science, de
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,scss,java,py,php,mongodb,mysql,postman,vscode,git,github,discord,laravel,flask,django,ubuntu,sklearn,pytorch,tensorflow&perline=10" />
+    <img src="https://skillicons.dev/icons?i=css,html,scss,java,py,php,mongodb,mysql,postgres,postman,vscode,git,github,discord,laravel,flask,django,ubuntu,sklearn,pytorch,tensorflow,aws&perline=7" />
   </a>
 </p>
 
